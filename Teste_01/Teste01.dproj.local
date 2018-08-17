@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/01/13 20:15:18.000.110,=C:\Users\Isac\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/15 13:20:59.000.784,=D:\Usuários\Isac\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/15 13:22:24.000.735,=D:\Usuários\Isac\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/15 13:25:12.000.939,=D:\Usuários\Isac\Área de Trabalho\Areco\Teste_01\FRProdutos.pas</Transaction>
+    <Transaction>2018/08/15 13:25:39.000.202,D:\Usuários\Isac\Documentos\Embarcadero\Studio\Projects\Project1.dproj=D:\Usuários\Isac\Área de Trabalho\Areco\Teste_01\Teste01.dproj</Transaction>
+    <Transaction>2018/08/15 18:03:14.000.606,=D:\Usuários\Isac\Área de Trabalho\Areco\Teste_01\Unit1.pas</Transaction>
+    <Transaction>2018/08/15 18:04:56.000.411,D:\Usuários\Isac\Área de Trabalho\Areco\Teste_01\Unit1.pas=D:\Usuários\Isac\Área de Trabalho\Areco\Teste_01\uProduto.pas</Transaction>
+    <Transaction>2018/08/15 18:05:10.000.789,=D:\Usuários\Isac\Área de Trabalho\Areco\Teste_01\Unit1.pas</Transaction>
+    <Transaction>2018/08/15 18:46:16.000.595,D:\Usuários\Isac\Área de Trabalho\Areco\Teste_01\Unit1.pas=D:\Usuários\Isac\Área de Trabalho\Areco\Teste_01\uListaProdutos.pas</Transaction>
+    <Transaction>2018/08/15 18:58:53.000.663,=D:\Usuários\Isac\Área de Trabalho\Areco\Teste_01\Unit1.pas</Transaction>
+    <Transaction>2018/08/15 18:59:49.000.263,D:\Usuários\Isac\Área de Trabalho\Areco\Teste_01\Unit1.dfm=D:\Usuários\Isac\Área de Trabalho\Areco\Teste_01\uDados.dfm</Transaction>
+    <Transaction>2018/08/15 18:59:49.000.263,D:\Usuários\Isac\Área de Trabalho\Areco\Teste_01\Unit1.pas=D:\Usuários\Isac\Área de Trabalho\Areco\Teste_01\uDados.pas</Transaction>
+    <Transaction>2018/08/15 19:09:15.000.685,=D:\Usuários\Isac\Área de Trabalho\Areco\Teste_01\Unit1.pas</Transaction>
+    <Transaction>2018/08/15 19:11:30.000.184,D:\Usuários\Isac\Área de Trabalho\Areco\Teste_01\Unit1.dfm=D:\Usuários\Isac\Área de Trabalho\Areco\Teste_01\FREdicaoProduto.dfm</Transaction>
+    <Transaction>2018/08/15 19:11:30.000.184,D:\Usuários\Isac\Área de Trabalho\Areco\Teste_01\Unit1.pas=D:\Usuários\Isac\Área de Trabalho\Areco\Teste_01\FREdicaoProduto.pas</Transaction>
+    <Transaction>2018/08/15 22:27:52.000.830,=D:\Usuários\Isac\Área de Trabalho\Areco\Teste_01\Unit1.pas</Transaction>
+    <Transaction>2018/08/15 22:28:09.000.743,D:\Usuários\Isac\Área de Trabalho\Areco\Teste_01\uConst.pas=D:\Usuários\Isac\Área de Trabalho\Areco\Teste_01\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
